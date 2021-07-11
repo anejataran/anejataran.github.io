@@ -1,0 +1,58 @@
+body {
+    background-color: #334452;
+}
+
+.myright-border {
+    border-right: 1px solid #334452;
+    min-height: 640px;
+}
+
+.main-background {
+    background-color: #011627;
+    color: white;
+}
+
+.logo {
+    margin-top: 12px;
+    font-family: 'Vampiro One', cursive;
+}
+
+.menu {
+    padding-top: 75%;
+}
+
+.menu ul{
+    list-style: none;
+    line-height: 3.6;
+    font-family: 'Mate SC', serif;
+}
+
+.menu ul li{
+    text-align: center;
+    border-bottom: 1px solid lightgray;
+    width: 100%;
+}
+
+.menu ul li a{
+   color: white;
+}
+
+.webicon {
+    padding-top: 32%;
+}
+
+.myconts {
+    padding: 50px;
+}
+
+.main-content {
+    width: 100%;
+    float: left;
+    background-color: white;
+    height: 535px;
+}
+
+.mymains {
+    padding-top: 20%;
+    padding-left: 7%;
+}
