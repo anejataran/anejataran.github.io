@@ -71,6 +71,10 @@ a:hover {
   overflow: hidden;
 }
 
+.my-mage {
+	background-image : url(../img/hero-bg.jpg);
+}
+
 .bg-image {
   background-repeat: no-repeat;
   background-attachment: fixed;
